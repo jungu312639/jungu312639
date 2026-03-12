@@ -46,7 +46,7 @@
 * **時空覆盤系統 (Replay System)**：實作事件溯源 (Event Sourcing) 架構，支援歷史對局的狀態還原與 AI 戰術回批分析。
 
 ---
-#### [Algorithm Practice (C++ & LeetCode)](https://www.google.com/search?q=%E4%BD%A0%E7%9A%84%E5%B0%88%E6%A1%88%E9%80%A3%E7%B5%90)
+#### [Algorithm Practice (C++ & LeetCode)](https://github.com/jungu312639/Leetcode)
 
 * 持續磨練演算法基本功，精通 **Hash Maps, Stack/Queue, Two Pointers** 等資料結構應用。
 
